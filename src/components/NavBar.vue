@@ -8,8 +8,8 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
           <a href="#services">O que eu faço</a>
-          <a href="#projects">Meus Projetos</a>
-          <a href="#tecnologies">Tecnologias que utilizo</a>
+          <a href="#projects">Meus projetos</a>
+          <a href="#tecnologies">Minhas habilidades</a>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>

@@ -5,7 +5,7 @@
       <div class="col-lg-3 col-md-6 col-sm-12">
         <div class="card" style="width: 100%;">
           <div class="card-header">Code Solidário</div>
-          <img class="card-img-top" src="~../assets/img/code-min.jpg" alt="Card image cap" />
+          <img class="card-img-top" src="~../assets/img/code-min-compressed.jpg" alt="Card image cap" />
         </div>
       </div>
     </div>

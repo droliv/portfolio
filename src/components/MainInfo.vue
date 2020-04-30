@@ -48,7 +48,7 @@ export default {};
 }
 
 .main {
-  background: url("~../assets/img/fundo-min.jpg") no-repeat;
+  background: url("~../assets/img/fundo-min-compressed.jpg") no-repeat;
   background-size: cover;
   position: relative;
 }
