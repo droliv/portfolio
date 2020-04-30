@@ -6,8 +6,8 @@
           <img src="~../assets/img/profile_optimized.jpg" class="rounded-circle" alt />
           <h1>Daniele Oliveira</h1>
           <p>
-            Desenvolvedora Full Stack com connhecimento das principais linguagens e frameworks para desenvolvimento web
-            e fundadora do Code Solidário, um projeto que tem o objetivo de incentivar o desenvolvimento de projetos de interesse social
+            Desenvolvedora Full Stack com conhecimento das principais linguagens e frameworks para desenvolvimento web
+            e fundadora do Code Solidário, um projeto que tem o objetivo de incentivar o desenvolvimento de projetos de interesse social.
 
           </p>
           <div class="icons">
