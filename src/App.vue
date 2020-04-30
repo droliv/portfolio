@@ -26,6 +26,8 @@ export default {
 </script>
 
 <style>
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
 h1 {
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-size: 60px !important;
