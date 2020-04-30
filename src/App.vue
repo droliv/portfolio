@@ -29,12 +29,12 @@ export default {
 @import 'bootstrap/dist/css/bootstrap.min.css';
 
 h1 {
-  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Yanone Kaffeesatz", "Helvetica Neue", Arial, sans-serif;
   font-size: 60px !important;
   text-align: center;
 }
 h2 {
-  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-family: "Yanone Kaffeesatz", "Helvetica Neue", Arial, sans-serif;
   font-size: 50px !important;
   text-align: center !important;
   color: #a3145b;
